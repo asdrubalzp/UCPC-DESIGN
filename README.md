@@ -1,7 +1,7 @@
 # 🎮 UCPC - UR CONFIDENT PLAY CORNER
 <div align="center">
 	<br>
-	<img src="https://ibb.co/SrvW0tT?sanitize=true" width="400" height="400">
+	<img src="https://ibb.co/SrvW0tT" width="400" height="400">
 	<br>
 </div>
   
