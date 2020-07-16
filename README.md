@@ -1,7 +1,7 @@
 # 🎮 UCPC - UR CONFIDENT PLAY CORNER
 <div align="center">
 	<br>
-	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftecnovortex.com%2Fglorious-pc-master-race-y-el-orgullo-del-pc-gamer%2F&psig=AOvVaw2i7UeOeJqV0u5j6gyGDaFv&ust=1595022820376000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiin5jh0uoCFQAAAAAdAAAAABAD?sanitize=true" width="200" height="200">
+	<img src="https://www.pcmrace.com/wp-content/uploads/2014/04/approved.gif?sanitize=true" width="200" height="200">
 	<br>
     	<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
 </div>
