@@ -1,8 +1,6 @@
 # 🎮 UCPC - UR CONFIDENT PLAY CORNER
 <div align="center">
-	<br>
-	<img src="https://www.pcmrace.com/wp-content/uploads/2014/04/approved.gif?sanitize=true" width="571" height="181">
-	<br>
+	
 </div>
   
  ➡️  La página web “UCPC.com”, es una plataforma dedicada a la venta digital de videojuegos para computador,
