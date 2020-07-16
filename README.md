@@ -1,7 +1,7 @@
 # 🎮 UCPC - UR CONFIDENT PLAY CORNER
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<img src="https://ibb.co/SrvW0tT?sanitize=true" width="400" height="400">
 	<br>
 </div>
   
