@@ -1,7 +1,7 @@
 # 🎮 UCPC - UR CONFIDENT PLAY CORNER
 <div align="center">
 	<br>
-	<img src="https://ibb.co/SrvW0tT" width="400" height="400">
+	<img src="https://i.ibb.co/xH5PG1v/Logo-Grande.png" width="400" height="400">
 	<br>
 </div>
   
